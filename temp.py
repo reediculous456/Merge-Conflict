@@ -1,2 +1,2 @@
-# Temporary script
-print('Temp')
+# Temporary script updated
+print('Updated Temp')
