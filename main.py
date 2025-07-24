@@ -1,1 +1,1 @@
-Using config.env
+Using staging config
